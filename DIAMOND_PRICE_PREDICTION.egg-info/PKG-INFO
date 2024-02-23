@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: DIAMOND_PRICE_PREDICTION
+Version: 0.0.1
+Author: Shreya
+Author-email: pandeyshreya395@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: matplotlib
+Requires-Dist: flask
+Requires-Dist: seaborn
+Requires-Dist: bokeh
+Requires-Dist: plotly
